@@ -1,6 +1,6 @@
 # pitch-detection
 
-ploting pich contour using:
-AMDF Mrthod
-Auto correlation
-Cepstrum
+ploting pich contour using:<br />
+AMDF <br />
+Autocorrelation <br />
+Cepstrum <br />
